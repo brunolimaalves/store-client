@@ -1,8 +1,9 @@
-import ShowCase from './components/showcase'
+import Layout from './components/layout';
+
 function App() {
   return (
     <div className="App">
-      <ShowCase />
+        <Layout />
     </div>
   );
 }
